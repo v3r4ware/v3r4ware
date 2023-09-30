@@ -17,8 +17,10 @@ struct MyProfile {
     static func current_learn() -> [String] {
         return [
             "Python",
+            "HTML",
             "JavaScript",
             "C++"
+            "CSS",
         ]
     }  
 }
