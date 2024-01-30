@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/ayaka.gif" width="30%" align="right" />
+<img src="assets/ayaka.gif" width="25%" align="right" />
 <pre>
 hello and welcome to my github profile
   <br>
