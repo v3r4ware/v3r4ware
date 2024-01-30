@@ -1,10 +1,22 @@
 <div align="center">
-<img src="./295ebc053af91666ca23dfdab8a81ba0.gif" width="25%" align="right" />
+<img src="./295ebc053af91666ca23dfdab8a81ba0.gif"/>" width="25%" align="right" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Eryk"
+        self.role = "Undergraduate Software Engineer"
+        self.language_spoken = ["pl_PL", "en_UK"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
 </pre>
