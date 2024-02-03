@@ -3,7 +3,7 @@
 <pre>
 hello and welcome to my github profile
   <br>
-i'm an undergraduate software engineering student @ UoW
+i'm an undergraduate software engineering student/cyber security researcher @ UoW
   <br>
 i'm currently learning Python, JavaScript and React.js
   <br>
